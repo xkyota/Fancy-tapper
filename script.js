@@ -1,24 +1,24 @@
 const cardsDatabase = [
     {
-        poster: "/images/performance-exhaust.png",
+        poster: "./images/performance-exhaust.png",
         title: "GTR Performance",
         price: "$1200",
         buttonText: "Upgrade Now"
     },
     {
-        poster: "/images/turbocharger-kit.png",
+        poster: "./images/turbocharger-kit.png",
         title: "GTR Turbocharger Kit",
         price: "$3500",
         buttonText: "Boost Now"
     },
     {
-        poster: "/images/suspension-kit.png",
+        poster: "./images/suspension-kit.png",
         title: "GTR Suspension Kit",
         price: "$800",
         buttonText: "Install Now"
     },
     {
-        poster: "/images/ecu-tuning.png",
+        poster: "./images/ecu-tuning.png",
         title: "GTR ECU Tuning",
         price: "$600",
         buttonText: "Tune Now"
